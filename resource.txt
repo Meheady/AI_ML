@@ -1,0 +1,4 @@
+Mean Squared Error --- > https://www.youtube.com/watch?v=beIgcdf0YDE&t=30s
+		   --- > https://www.geeksforgeeks.org/maths/mean-squared-error/
+
+
